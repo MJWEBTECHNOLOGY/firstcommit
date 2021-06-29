@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/firstcommit/static/css/main.7863021a.chunk.css",
+    "main.js": "/firstcommit/static/js/main.06a6e33a.chunk.js",
+    "main.js.map": "/firstcommit/static/js/main.06a6e33a.chunk.js.map",
+    "runtime-main.js": "/firstcommit/static/js/runtime-main.f508a39c.js",
+    "runtime-main.js.map": "/firstcommit/static/js/runtime-main.f508a39c.js.map",
+    "static/js/2.13cdb9b8.chunk.js": "/firstcommit/static/js/2.13cdb9b8.chunk.js",
+    "static/js/2.13cdb9b8.chunk.js.map": "/firstcommit/static/js/2.13cdb9b8.chunk.js.map",
+    "index.html": "/firstcommit/index.html",
+    "static/css/main.7863021a.chunk.css.map": "/firstcommit/static/css/main.7863021a.chunk.css.map",
+    "static/js/2.13cdb9b8.chunk.js.LICENSE.txt": "/firstcommit/static/js/2.13cdb9b8.chunk.js.LICENSE.txt",
+    "static/media/about.0290bb5a.png": "/firstcommit/static/media/about.0290bb5a.png",
+    "static/media/index.css": "/firstcommit/static/media/presentation.2d949a93.png",
+    "static/media/download.52e6d6c5.png": "/firstcommit/static/media/download.52e6d6c5.png",
+    "static/media/feature_1.801589a0.png": "/firstcommit/static/media/feature_1.801589a0.png",
+    "static/media/feature_2.2b466162.png": "/firstcommit/static/media/feature_2.2b466162.png",
+    "static/media/feature_3.0fadb17c.png": "/firstcommit/static/media/feature_3.0fadb17c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f508a39c.js",
+    "static/js/2.13cdb9b8.chunk.js",
+    "static/css/main.7863021a.chunk.css",
+    "static/js/main.06a6e33a.chunk.js"
+  ]
+}
